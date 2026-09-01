@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Stirling PDF — Official Web Extension",
+  "version": "1.0.0",
+  "description": "Ferramenta de Edição, Assinatura Digital e Manipulação de PDF baseada no Stirling PDF.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon-16.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  },
+  "icons": {
+    "16": "icon-16.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  },
+  "permissions": ["activeTab", "storage"]
+}
