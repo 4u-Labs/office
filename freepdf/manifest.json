@@ -1,0 +1,17 @@
+{
+  "name": "Stirling PDF — Official Web Studio",
+  "short_name": "Free PDF",
+  "description": "Suíte Oficial Stirling PDF para Edição, Assinatura Digital e Manipulação de PDF.",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#070a12",
+  "theme_color": "#0b0f19",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
